@@ -1,7 +1,5 @@
 streamlit==0.81.0
 plotly==4.14.3
-time
-datetime
 pandas==1.1.5
 fbprophet==0.7.1
 yfinance==0.1.59
