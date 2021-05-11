@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1619729935097/work
+  - plotly==4.14.3
+  - yfinance==0.1.59
+  - fbprophet @ file:///D:/bld/fbprophet_1599365737389/work
